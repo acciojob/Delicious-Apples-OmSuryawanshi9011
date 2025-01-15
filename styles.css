@@ -164,3 +164,11 @@ body {
 	border-radius: 5px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+h3 {
+    font-size: 1.5em;
+    color: green;
+}
+.benefits {
+    font-size: 1.5em;
+    color: green;
+}
